@@ -8,12 +8,12 @@
 
 ## 🧠 About Me
 
-I'm a developer who doesn't just learn — I build.  
-I’ve worked across low-level to high-level systems and I'm currently focused on full-stack web development.
+I'm a Computer Engineering student with experience across a wide range of programming languages and technologies.  
+I’ve built numerous projects, from low-level systems to higher-level applications, which has helped me develop a strong and flexible problem-solving mindset.
 
-Right now, I'm studying through **The Odin Project**, moving toward **React** while strengthening my fundamentals in modern web architecture.
+I enjoy exploring different areas of software development and continuously expanding my skill set, whether it's systems programming, web development, or emerging technologies.
 
-I strongly believe in writing **clean, testable code** and actively apply **TDD (Test-Driven Development)** in my workflow.
+I focus on writing clean, reliable code and building projects that are both practical and well-structured.
 
 ---
 
