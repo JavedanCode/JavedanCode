@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Hi, I'm Soren
 
-<!--
-**JavedanCode/JavedanCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Bachelor's student @ Arel University (GPA: 3.89)  
+🚀 Highly ambitious developer focused on building real, scalable projects  
+⚡ Fast learner, constantly pushing into new technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm a developer who doesn't just learn — I build.  
+I’ve worked across low-level to high-level systems and I'm currently focused on full-stack web development.
+
+Right now, I'm studying through **The Odin Project**, moving toward **React** while strengthening my fundamentals in modern web architecture.
+
+I strongly believe in writing **clean, testable code** and actively apply **TDD (Test-Driven Development)** in my workflow.
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+- C, C++, C#, Java, Python, JavaScript, Assembly  
+
+### 🌐 Web Development
+- HTML, CSS, JavaScript (ES6+), Node.js, Express.js, npm, JSON, MySQL  
+
+### 🧩 Concepts
+- Data Structures & Algorithms  
+- Machine Learning & Deep Learning  
+- Game Development  
+- Test-Driven Development (TDD)  
+
+---
+
+## 🧰 Technical Skills
+
+<div align="center">
+
+### 👨‍💻 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧠 Concepts  
+![Web Development](https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge)
+![Web Application](https://img.shields.io/badge/Web%20Applications-4CAF50?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-FF5722?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-3F51B5?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-000000?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-795548?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-2ECC71?style=for-the-badge)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadmahdi-mohammadinia-262a443a9/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sorenjavedan@gmail.com)
+
+</div>
+
+---
+
+> "Discipline and consistency beat talent."
