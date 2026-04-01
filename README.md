@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Soren
 
-🎓 Third-year Bachelor's student @ Arel University (GPA: 3.89)  
+🎓 Third-year Bachelor's student @ Arel University
 🚀 Highly ambitious developer focused on building real, scalable projects  
 ⚡ Fast learner, constantly pushing into new technologies  
 
